@@ -41,20 +41,19 @@ Displays the overall summary:
 **V] Total Sales by Day (Line Chart)**
 - Tracks daily sales patterns.
 - Sunday and Friday show the highest sales activity.
-- Brand-wise Sales Table
 
 **VI] Total Quantity Sold by Month (Line Chart)**
 - Monthly sales trend across the year.
 - Peaks observed in March and August, indicating higher purchase activity.
 
-**VII] Tabular summary**
+**VII] Brand-Wise Table Visual**
 - showing total sales and transactions for each brand like Apple, OnePlus, Samsung, Vivo, Xiaomi.
 
 ## 📆 Page 2: MTD (Month-To-Date) Report
 This page focuses on sales performance in real-time (month-to-date) to track progress within the current month.
 
 ### 📌 Key Visuals & Insights
-**I] Total Sales, Quantity Sold, Average Price, and Transactions (KPI Cards)**
+**I] Total Sales, Quantity Sold, Average Price, and Transactions (KPI Cards) of each month ising slicer**
 - KPIs reflect MTD status:
 💰 Total Sales: 23M
 📦 Total Quantity Sold: 604
