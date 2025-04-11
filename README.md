@@ -1,4 +1,8 @@
 # 📊 Mobile Sales Analysis - Power BI Dashboard
+
+## **🎥 [Watch the project demo video]** 
+(https://drive.google.com/file/d/1IPlkGPLmIQxDbmt7D0Nde4lej6dzaAyO/view?usp=sharing)
+
 **Welcome to the Mobile Sales Analysis project, built using Power BI. This dashboard offers interactive and insightful visualizations to monitor mobile sales performance across various dimensions like city, brand, model, payment method, and time.**
 
 ## 🧾 Project Overview
